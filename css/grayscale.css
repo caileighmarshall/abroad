@@ -29,7 +29,7 @@ h6 {
 
 p {
   margin: 0 0 25px;
-  font-size: 18px;
+  font-size: 16px;
   line-height: 1.5;
 }
 @media (min-width: 768px) {
@@ -369,6 +369,7 @@ ul.banner-social-buttons {
   ul.banner-social-buttons li:last-child {
     margin-bottom: 0;
   }
+  
 }
 footer {
   padding: 50px 0;
