@@ -50,7 +50,14 @@ a:focus {
   text-decoration: none;
   color: white;
 }
-
+#date {
+	margin: 0 0 20px;
+	text-transform: uppercase;
+	font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-weight: 700;
+	letter-spacing: 1px;
+	font-size: 16px;
+}
 tr, td {
 	font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
 	font-size:16px;
@@ -114,6 +121,14 @@ td:hover {
   #mapbutton {
 	display: none;
   }
+  #date {
+	margin: 0 0 35px;
+	text-transform: uppercase;
+	font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-weight: 700;
+	letter-spacing: 1px;
+	font-size: 20px;
+}
 }
 
 
