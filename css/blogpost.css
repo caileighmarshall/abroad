@@ -71,13 +71,6 @@ ul {
 img {
 	margin-top: 66px;
 }
-#next {
-	text-align: right;
-	font-size: 18px;
-  line-height: 1.2;
-  margin: 0 20px;
-  display: inline;
-}
 #full-height {
     min-height: 100vh;
     box-sizing: border-box;
