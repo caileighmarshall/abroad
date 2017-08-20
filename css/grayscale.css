@@ -106,7 +106,7 @@ td:hover {
 	background-color: #063731;
 	color: white;
 }
-
+*:focus {outline:none !important}
 #mapimage {
 	display: none;
 }
