@@ -167,7 +167,7 @@ ul.banner-social-buttons {
   }
 }
 a {
-  color: #063731;;
+  color: #407954;
   -webkit-transition: all 0.2s ease-in-out;
   -moz-transition: all 0.2s ease-in-out;
   transition: all 0.2s ease-in-out;
@@ -175,7 +175,7 @@ a {
 a:hover,
 a:focus {
   text-decoration: none;
-  color: #407954;
+  color: #42915e;
 }
 .light {
   font-weight: 400;
